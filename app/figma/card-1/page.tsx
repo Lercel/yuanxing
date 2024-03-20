@@ -2,7 +2,7 @@
 import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 
-export default function Business1() {
+export default function Card1() {
   const router = useRouter()
 
   useEffect(()=>{
